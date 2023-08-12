@@ -1,0 +1,7 @@
+
+#load files
+*.log
+*.jl
+
+#virtual env dir
+venv/
